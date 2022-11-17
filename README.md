@@ -8,3 +8,5 @@ There is no duplicate records in the proposed test sets; therefore, the performa
 The number of selected records from each difficultylevel group is inversely proportional to the percentage of records in the original KDD data set. As a result, the classification rates of distinct machine learning methods vary in a wider range, which makes it more efficient to have an accurate evaluation of different learning techniques.
 
 The number of records in the train and test sets are reasonable, which makes it affordable to run the experiments on the complete set without the need to randomly select a small portion. Consequently, evaluation results of different research works will be consistent and comparable.
+
+For More About Dataset https://www.kaggle.com/datasets/hassan06/nslkdd?select=KDDTrain1.jpg
